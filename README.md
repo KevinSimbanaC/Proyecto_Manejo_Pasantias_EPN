@@ -4,4 +4,4 @@ en la Facultad de Ingeniería Electrica y Electrónica de la Escuela
 Politécnica Nacional.
 
 ## Preview
-![](/capturaProyecto.jpg)
+![](/capturaProyecto.JPG)
