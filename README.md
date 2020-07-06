@@ -5,3 +5,9 @@ Politécnica Nacional.
 
 ## Preview
 ![](/capturaProyecto.JPG)
+
+## Authors
+
+- Joseph Bravo
+- Kevin Simbaña
+- Roddy Zamora
